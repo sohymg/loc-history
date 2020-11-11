@@ -1,0 +1,3 @@
+*.csv
+Gemfile.lock
+.byebug_history
